@@ -2,6 +2,8 @@
 
 This is a simple node-express server to explore and understand the Request-Response pattern.
 
+This line is to check the git rules I put in.
+
 ***
 ## Getting Setup
 
